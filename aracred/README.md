@@ -1,4 +1,12 @@
-# Website
+![](https://avatars3.githubusercontent.com/u/63201387?s=200&v=4)
+
+# AraCred
+
+_Aragon + SourceCred_
+
+Need help? Drop into the [AraCred Discord chat](https://discord.gg/Az5su6t).
+
+### Info
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
